@@ -15,7 +15,7 @@ This is a simple weather web application that allows users to search for current
 - **OpenWeatherMap API** - Source of weather data
 
 ## 🌐 Demo
-[Live Demo Link (Optional if hosted)](https://your-demo-link.com)
+[Live Demo Link (Optional if hosted)]( https://mahesh7kumar.github.io/Weather-App/)
 
 ## 📦 Installation
 
